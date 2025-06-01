@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CardGame",
+            "request": "launch",
+            "mainClass": "card.CardGame",
+            "projectName": "card-games"
+        },
+        {
+            "type": "java",
+            "name": "Deck",
+            "request": "launch",
+            "mainClass": "card.entity.Deck",
+            "projectName": "card-games"
+        },
+        {
+            "type": "java",
+            "name": "TwentyOne",
+            "request": "launch",
+            "mainClass": "card.game.twenty_one.TwentyOne",
+            "projectName": "card-games"
+        },
+        {
+            "type": "java",
+            "name": "ConsoleInOut",
+            "request": "launch",
+            "mainClass": "communication.ConsoleInOut",
+            "projectName": "card-games"
+        }
+    ]
+}
