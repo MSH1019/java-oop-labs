@@ -23,4 +23,4 @@ This repository includes multiple projects exploring core OOP principles and des
 
 ## 📚 Context
 
-These labs were developed as part of my second-year Software Engineering studies, with a focus on writing clean, modular, and testable Java code.
+These labs were developed as part of my Software Engineering studies, with a focus on writing clean, modular, and testable Java code.
